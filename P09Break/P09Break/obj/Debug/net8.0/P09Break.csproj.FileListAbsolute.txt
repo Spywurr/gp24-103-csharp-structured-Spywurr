@@ -1,0 +1,14 @@
+C:\Users\spywu\source\repos\P09Break\P09Break\obj\Debug\net8.0\P09Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spywu\source\repos\P09Break\P09Break\obj\Debug\net8.0\P09Break.AssemblyInfoInputs.cache
+C:\Users\spywu\source\repos\P09Break\P09Break\obj\Debug\net8.0\P09Break.AssemblyInfo.cs
+C:\Users\spywu\source\repos\P09Break\P09Break\obj\Debug\net8.0\P09Break.csproj.CoreCompileInputs.cache
+C:\Users\spywu\source\repos\P09Break\P09Break\bin\Debug\net8.0\P09Break.exe
+C:\Users\spywu\source\repos\P09Break\P09Break\bin\Debug\net8.0\P09Break.deps.json
+C:\Users\spywu\source\repos\P09Break\P09Break\bin\Debug\net8.0\P09Break.runtimeconfig.json
+C:\Users\spywu\source\repos\P09Break\P09Break\bin\Debug\net8.0\P09Break.dll
+C:\Users\spywu\source\repos\P09Break\P09Break\bin\Debug\net8.0\P09Break.pdb
+C:\Users\spywu\source\repos\P09Break\P09Break\obj\Debug\net8.0\P09Break.dll
+C:\Users\spywu\source\repos\P09Break\P09Break\obj\Debug\net8.0\refint\P09Break.dll
+C:\Users\spywu\source\repos\P09Break\P09Break\obj\Debug\net8.0\P09Break.pdb
+C:\Users\spywu\source\repos\P09Break\P09Break\obj\Debug\net8.0\P09Break.genruntimeconfig.cache
+C:\Users\spywu\source\repos\P09Break\P09Break\obj\Debug\net8.0\ref\P09Break.dll

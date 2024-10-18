@@ -1,0 +1,14 @@
+C:\Users\spywu\source\repos\P05_1OneParameter\P05_1OneParameter\bin\Debug\net8.0\P05_1OneParameter.exe
+C:\Users\spywu\source\repos\P05_1OneParameter\P05_1OneParameter\bin\Debug\net8.0\P05_1OneParameter.deps.json
+C:\Users\spywu\source\repos\P05_1OneParameter\P05_1OneParameter\bin\Debug\net8.0\P05_1OneParameter.runtimeconfig.json
+C:\Users\spywu\source\repos\P05_1OneParameter\P05_1OneParameter\bin\Debug\net8.0\P05_1OneParameter.dll
+C:\Users\spywu\source\repos\P05_1OneParameter\P05_1OneParameter\bin\Debug\net8.0\P05_1OneParameter.pdb
+C:\Users\spywu\source\repos\P05_1OneParameter\P05_1OneParameter\obj\Debug\net8.0\P05_1OneParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spywu\source\repos\P05_1OneParameter\P05_1OneParameter\obj\Debug\net8.0\P05_1OneParameter.AssemblyInfoInputs.cache
+C:\Users\spywu\source\repos\P05_1OneParameter\P05_1OneParameter\obj\Debug\net8.0\P05_1OneParameter.AssemblyInfo.cs
+C:\Users\spywu\source\repos\P05_1OneParameter\P05_1OneParameter\obj\Debug\net8.0\P05_1OneParameter.csproj.CoreCompileInputs.cache
+C:\Users\spywu\source\repos\P05_1OneParameter\P05_1OneParameter\obj\Debug\net8.0\P05_1OneParameter.dll
+C:\Users\spywu\source\repos\P05_1OneParameter\P05_1OneParameter\obj\Debug\net8.0\refint\P05_1OneParameter.dll
+C:\Users\spywu\source\repos\P05_1OneParameter\P05_1OneParameter\obj\Debug\net8.0\P05_1OneParameter.pdb
+C:\Users\spywu\source\repos\P05_1OneParameter\P05_1OneParameter\obj\Debug\net8.0\P05_1OneParameter.genruntimeconfig.cache
+C:\Users\spywu\source\repos\P05_1OneParameter\P05_1OneParameter\obj\Debug\net8.0\ref\P05_1OneParameter.dll

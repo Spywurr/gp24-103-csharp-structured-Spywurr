@@ -1,0 +1,14 @@
+C:\Users\spywu\source\repos\p01scopes\p01scopes\obj\Debug\net8.0\p01scopes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spywu\source\repos\p01scopes\p01scopes\obj\Debug\net8.0\p01scopes.AssemblyInfoInputs.cache
+C:\Users\spywu\source\repos\p01scopes\p01scopes\obj\Debug\net8.0\p01scopes.AssemblyInfo.cs
+C:\Users\spywu\source\repos\p01scopes\p01scopes\obj\Debug\net8.0\p01scopes.csproj.CoreCompileInputs.cache
+C:\Users\spywu\source\repos\p01scopes\p01scopes\bin\Debug\net8.0\p01scopes.exe
+C:\Users\spywu\source\repos\p01scopes\p01scopes\bin\Debug\net8.0\p01scopes.deps.json
+C:\Users\spywu\source\repos\p01scopes\p01scopes\bin\Debug\net8.0\p01scopes.runtimeconfig.json
+C:\Users\spywu\source\repos\p01scopes\p01scopes\bin\Debug\net8.0\p01scopes.dll
+C:\Users\spywu\source\repos\p01scopes\p01scopes\bin\Debug\net8.0\p01scopes.pdb
+C:\Users\spywu\source\repos\p01scopes\p01scopes\obj\Debug\net8.0\p01scopes.dll
+C:\Users\spywu\source\repos\p01scopes\p01scopes\obj\Debug\net8.0\refint\p01scopes.dll
+C:\Users\spywu\source\repos\p01scopes\p01scopes\obj\Debug\net8.0\p01scopes.pdb
+C:\Users\spywu\source\repos\p01scopes\p01scopes\obj\Debug\net8.0\p01scopes.genruntimeconfig.cache
+C:\Users\spywu\source\repos\p01scopes\p01scopes\obj\Debug\net8.0\ref\p01scopes.dll

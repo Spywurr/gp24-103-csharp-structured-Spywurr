@@ -1,0 +1,14 @@
+C:\Users\spywu\source\repos\p04_1return\p04_1return\bin\Debug\net8.0\p04_1return.exe
+C:\Users\spywu\source\repos\p04_1return\p04_1return\bin\Debug\net8.0\p04_1return.deps.json
+C:\Users\spywu\source\repos\p04_1return\p04_1return\bin\Debug\net8.0\p04_1return.runtimeconfig.json
+C:\Users\spywu\source\repos\p04_1return\p04_1return\bin\Debug\net8.0\p04_1return.dll
+C:\Users\spywu\source\repos\p04_1return\p04_1return\bin\Debug\net8.0\p04_1return.pdb
+C:\Users\spywu\source\repos\p04_1return\p04_1return\obj\Debug\net8.0\p04_1return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spywu\source\repos\p04_1return\p04_1return\obj\Debug\net8.0\p04_1return.AssemblyInfoInputs.cache
+C:\Users\spywu\source\repos\p04_1return\p04_1return\obj\Debug\net8.0\p04_1return.AssemblyInfo.cs
+C:\Users\spywu\source\repos\p04_1return\p04_1return\obj\Debug\net8.0\p04_1return.csproj.CoreCompileInputs.cache
+C:\Users\spywu\source\repos\p04_1return\p04_1return\obj\Debug\net8.0\p04_1return.dll
+C:\Users\spywu\source\repos\p04_1return\p04_1return\obj\Debug\net8.0\refint\p04_1return.dll
+C:\Users\spywu\source\repos\p04_1return\p04_1return\obj\Debug\net8.0\p04_1return.pdb
+C:\Users\spywu\source\repos\p04_1return\p04_1return\obj\Debug\net8.0\p04_1return.genruntimeconfig.cache
+C:\Users\spywu\source\repos\p04_1return\p04_1return\obj\Debug\net8.0\ref\p04_1return.dll

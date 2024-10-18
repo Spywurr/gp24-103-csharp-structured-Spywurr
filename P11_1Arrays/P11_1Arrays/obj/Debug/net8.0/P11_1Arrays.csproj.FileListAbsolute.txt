@@ -1,0 +1,14 @@
+C:\Users\spywu\source\repos\P11_1Arrays\P11_1Arrays\bin\Debug\net8.0\P11_1Arrays.exe
+C:\Users\spywu\source\repos\P11_1Arrays\P11_1Arrays\bin\Debug\net8.0\P11_1Arrays.deps.json
+C:\Users\spywu\source\repos\P11_1Arrays\P11_1Arrays\bin\Debug\net8.0\P11_1Arrays.runtimeconfig.json
+C:\Users\spywu\source\repos\P11_1Arrays\P11_1Arrays\bin\Debug\net8.0\P11_1Arrays.dll
+C:\Users\spywu\source\repos\P11_1Arrays\P11_1Arrays\bin\Debug\net8.0\P11_1Arrays.pdb
+C:\Users\spywu\source\repos\P11_1Arrays\P11_1Arrays\obj\Debug\net8.0\P11_1Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spywu\source\repos\P11_1Arrays\P11_1Arrays\obj\Debug\net8.0\P11_1Arrays.AssemblyInfoInputs.cache
+C:\Users\spywu\source\repos\P11_1Arrays\P11_1Arrays\obj\Debug\net8.0\P11_1Arrays.AssemblyInfo.cs
+C:\Users\spywu\source\repos\P11_1Arrays\P11_1Arrays\obj\Debug\net8.0\P11_1Arrays.csproj.CoreCompileInputs.cache
+C:\Users\spywu\source\repos\P11_1Arrays\P11_1Arrays\obj\Debug\net8.0\P11_1Arrays.dll
+C:\Users\spywu\source\repos\P11_1Arrays\P11_1Arrays\obj\Debug\net8.0\refint\P11_1Arrays.dll
+C:\Users\spywu\source\repos\P11_1Arrays\P11_1Arrays\obj\Debug\net8.0\P11_1Arrays.pdb
+C:\Users\spywu\source\repos\P11_1Arrays\P11_1Arrays\obj\Debug\net8.0\P11_1Arrays.genruntimeconfig.cache
+C:\Users\spywu\source\repos\P11_1Arrays\P11_1Arrays\obj\Debug\net8.0\ref\P11_1Arrays.dll

@@ -1,0 +1,14 @@
+C:\Users\spywu\source\repos\P7DoWhileLoops\P7DoWhileLoops\obj\Debug\net8.0\P7DoWhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spywu\source\repos\P7DoWhileLoops\P7DoWhileLoops\obj\Debug\net8.0\P7DoWhileLoops.AssemblyInfoInputs.cache
+C:\Users\spywu\source\repos\P7DoWhileLoops\P7DoWhileLoops\obj\Debug\net8.0\P7DoWhileLoops.AssemblyInfo.cs
+C:\Users\spywu\source\repos\P7DoWhileLoops\P7DoWhileLoops\obj\Debug\net8.0\P7DoWhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\spywu\source\repos\P7DoWhileLoops\P7DoWhileLoops\bin\Debug\net8.0\P7DoWhileLoops.exe
+C:\Users\spywu\source\repos\P7DoWhileLoops\P7DoWhileLoops\bin\Debug\net8.0\P7DoWhileLoops.deps.json
+C:\Users\spywu\source\repos\P7DoWhileLoops\P7DoWhileLoops\bin\Debug\net8.0\P7DoWhileLoops.runtimeconfig.json
+C:\Users\spywu\source\repos\P7DoWhileLoops\P7DoWhileLoops\bin\Debug\net8.0\P7DoWhileLoops.dll
+C:\Users\spywu\source\repos\P7DoWhileLoops\P7DoWhileLoops\bin\Debug\net8.0\P7DoWhileLoops.pdb
+C:\Users\spywu\source\repos\P7DoWhileLoops\P7DoWhileLoops\obj\Debug\net8.0\P7DoWhileLoops.dll
+C:\Users\spywu\source\repos\P7DoWhileLoops\P7DoWhileLoops\obj\Debug\net8.0\refint\P7DoWhileLoops.dll
+C:\Users\spywu\source\repos\P7DoWhileLoops\P7DoWhileLoops\obj\Debug\net8.0\P7DoWhileLoops.pdb
+C:\Users\spywu\source\repos\P7DoWhileLoops\P7DoWhileLoops\obj\Debug\net8.0\P7DoWhileLoops.genruntimeconfig.cache
+C:\Users\spywu\source\repos\P7DoWhileLoops\P7DoWhileLoops\obj\Debug\net8.0\ref\P7DoWhileLoops.dll

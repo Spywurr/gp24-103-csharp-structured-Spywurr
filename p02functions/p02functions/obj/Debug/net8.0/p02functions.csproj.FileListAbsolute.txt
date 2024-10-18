@@ -1,0 +1,14 @@
+C:\Users\spywu\source\repos\p02functions\p02functions\bin\Debug\net8.0\p02functions.exe
+C:\Users\spywu\source\repos\p02functions\p02functions\bin\Debug\net8.0\p02functions.deps.json
+C:\Users\spywu\source\repos\p02functions\p02functions\bin\Debug\net8.0\p02functions.runtimeconfig.json
+C:\Users\spywu\source\repos\p02functions\p02functions\bin\Debug\net8.0\p02functions.dll
+C:\Users\spywu\source\repos\p02functions\p02functions\bin\Debug\net8.0\p02functions.pdb
+C:\Users\spywu\source\repos\p02functions\p02functions\obj\Debug\net8.0\p02functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spywu\source\repos\p02functions\p02functions\obj\Debug\net8.0\p02functions.AssemblyInfoInputs.cache
+C:\Users\spywu\source\repos\p02functions\p02functions\obj\Debug\net8.0\p02functions.AssemblyInfo.cs
+C:\Users\spywu\source\repos\p02functions\p02functions\obj\Debug\net8.0\p02functions.csproj.CoreCompileInputs.cache
+C:\Users\spywu\source\repos\p02functions\p02functions\obj\Debug\net8.0\p02functions.dll
+C:\Users\spywu\source\repos\p02functions\p02functions\obj\Debug\net8.0\refint\p02functions.dll
+C:\Users\spywu\source\repos\p02functions\p02functions\obj\Debug\net8.0\p02functions.pdb
+C:\Users\spywu\source\repos\p02functions\p02functions\obj\Debug\net8.0\p02functions.genruntimeconfig.cache
+C:\Users\spywu\source\repos\p02functions\p02functions\obj\Debug\net8.0\ref\p02functions.dll

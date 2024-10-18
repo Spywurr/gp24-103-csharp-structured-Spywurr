@@ -1,0 +1,14 @@
+C:\Users\spywu\source\repos\p03callstack\p03callstack\bin\Debug\net8.0\p03callstack.exe
+C:\Users\spywu\source\repos\p03callstack\p03callstack\bin\Debug\net8.0\p03callstack.deps.json
+C:\Users\spywu\source\repos\p03callstack\p03callstack\bin\Debug\net8.0\p03callstack.runtimeconfig.json
+C:\Users\spywu\source\repos\p03callstack\p03callstack\bin\Debug\net8.0\p03callstack.dll
+C:\Users\spywu\source\repos\p03callstack\p03callstack\bin\Debug\net8.0\p03callstack.pdb
+C:\Users\spywu\source\repos\p03callstack\p03callstack\obj\Debug\net8.0\p03callstack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spywu\source\repos\p03callstack\p03callstack\obj\Debug\net8.0\p03callstack.AssemblyInfoInputs.cache
+C:\Users\spywu\source\repos\p03callstack\p03callstack\obj\Debug\net8.0\p03callstack.AssemblyInfo.cs
+C:\Users\spywu\source\repos\p03callstack\p03callstack\obj\Debug\net8.0\p03callstack.csproj.CoreCompileInputs.cache
+C:\Users\spywu\source\repos\p03callstack\p03callstack\obj\Debug\net8.0\p03callstack.dll
+C:\Users\spywu\source\repos\p03callstack\p03callstack\obj\Debug\net8.0\refint\p03callstack.dll
+C:\Users\spywu\source\repos\p03callstack\p03callstack\obj\Debug\net8.0\p03callstack.pdb
+C:\Users\spywu\source\repos\p03callstack\p03callstack\obj\Debug\net8.0\p03callstack.genruntimeconfig.cache
+C:\Users\spywu\source\repos\p03callstack\p03callstack\obj\Debug\net8.0\ref\p03callstack.dll

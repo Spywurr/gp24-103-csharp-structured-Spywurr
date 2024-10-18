@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P11_1Arrays/1.0.0": {
+        "runtime": {
+          "P11_1Arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P11_1Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

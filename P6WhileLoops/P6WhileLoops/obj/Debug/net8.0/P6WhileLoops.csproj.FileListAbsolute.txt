@@ -1,0 +1,14 @@
+C:\Users\spywu\source\repos\P6WhileLoops\P6WhileLoops\bin\Debug\net8.0\P6WhileLoops.exe
+C:\Users\spywu\source\repos\P6WhileLoops\P6WhileLoops\bin\Debug\net8.0\P6WhileLoops.deps.json
+C:\Users\spywu\source\repos\P6WhileLoops\P6WhileLoops\bin\Debug\net8.0\P6WhileLoops.runtimeconfig.json
+C:\Users\spywu\source\repos\P6WhileLoops\P6WhileLoops\bin\Debug\net8.0\P6WhileLoops.dll
+C:\Users\spywu\source\repos\P6WhileLoops\P6WhileLoops\bin\Debug\net8.0\P6WhileLoops.pdb
+C:\Users\spywu\source\repos\P6WhileLoops\P6WhileLoops\obj\Debug\net8.0\P6WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spywu\source\repos\P6WhileLoops\P6WhileLoops\obj\Debug\net8.0\P6WhileLoops.AssemblyInfoInputs.cache
+C:\Users\spywu\source\repos\P6WhileLoops\P6WhileLoops\obj\Debug\net8.0\P6WhileLoops.AssemblyInfo.cs
+C:\Users\spywu\source\repos\P6WhileLoops\P6WhileLoops\obj\Debug\net8.0\P6WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\spywu\source\repos\P6WhileLoops\P6WhileLoops\obj\Debug\net8.0\P6WhileLoops.dll
+C:\Users\spywu\source\repos\P6WhileLoops\P6WhileLoops\obj\Debug\net8.0\refint\P6WhileLoops.dll
+C:\Users\spywu\source\repos\P6WhileLoops\P6WhileLoops\obj\Debug\net8.0\P6WhileLoops.pdb
+C:\Users\spywu\source\repos\P6WhileLoops\P6WhileLoops\obj\Debug\net8.0\P6WhileLoops.genruntimeconfig.cache
+C:\Users\spywu\source\repos\P6WhileLoops\P6WhileLoops\obj\Debug\net8.0\ref\P6WhileLoops.dll

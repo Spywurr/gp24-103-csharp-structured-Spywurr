@@ -1,0 +1,14 @@
+C:\Users\spywu\source\repos\P8_1RandomNumbers\P8_1RandomNumbers\bin\Debug\net8.0\P8_1RandomNumbers.exe
+C:\Users\spywu\source\repos\P8_1RandomNumbers\P8_1RandomNumbers\bin\Debug\net8.0\P8_1RandomNumbers.deps.json
+C:\Users\spywu\source\repos\P8_1RandomNumbers\P8_1RandomNumbers\bin\Debug\net8.0\P8_1RandomNumbers.runtimeconfig.json
+C:\Users\spywu\source\repos\P8_1RandomNumbers\P8_1RandomNumbers\bin\Debug\net8.0\P8_1RandomNumbers.dll
+C:\Users\spywu\source\repos\P8_1RandomNumbers\P8_1RandomNumbers\bin\Debug\net8.0\P8_1RandomNumbers.pdb
+C:\Users\spywu\source\repos\P8_1RandomNumbers\P8_1RandomNumbers\obj\Debug\net8.0\P8_1RandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spywu\source\repos\P8_1RandomNumbers\P8_1RandomNumbers\obj\Debug\net8.0\P8_1RandomNumbers.AssemblyInfoInputs.cache
+C:\Users\spywu\source\repos\P8_1RandomNumbers\P8_1RandomNumbers\obj\Debug\net8.0\P8_1RandomNumbers.AssemblyInfo.cs
+C:\Users\spywu\source\repos\P8_1RandomNumbers\P8_1RandomNumbers\obj\Debug\net8.0\P8_1RandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\spywu\source\repos\P8_1RandomNumbers\P8_1RandomNumbers\obj\Debug\net8.0\P8_1RandomNumbers.dll
+C:\Users\spywu\source\repos\P8_1RandomNumbers\P8_1RandomNumbers\obj\Debug\net8.0\refint\P8_1RandomNumbers.dll
+C:\Users\spywu\source\repos\P8_1RandomNumbers\P8_1RandomNumbers\obj\Debug\net8.0\P8_1RandomNumbers.pdb
+C:\Users\spywu\source\repos\P8_1RandomNumbers\P8_1RandomNumbers\obj\Debug\net8.0\P8_1RandomNumbers.genruntimeconfig.cache
+C:\Users\spywu\source\repos\P8_1RandomNumbers\P8_1RandomNumbers\obj\Debug\net8.0\ref\P8_1RandomNumbers.dll
